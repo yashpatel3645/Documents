@@ -1,0 +1,1014 @@
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\AdobeARM.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: This task keeps your Adobe Reader and Acrobat applications up to date with the latest enhancements and security fixes
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Apple Software Update\SoftwareUpdate.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: -task
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "C:\Program Files\KMSpico\AutoPico.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: /silent
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files\Dell\SupportAssistAgent\bin\SupportAssist.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: AutoUpdate
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: Dell SupportAssistAgent Auto Update Task Scheduler
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: /c
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: Keeps your Google software up to date. If this task is disabled or stopped, your Google software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This task uninstalls itself when there is no Google software using it.
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: /ua /installsource scheduler
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: Keeps your Google software up to date. If this task is disabled or stopped, your Google software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This task uninstalls itself when there is no Google software using it.
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: rundll32
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: "C:\Program Files (x86)\EhOAEeLcU\ZjcQch.dll",#1
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Net Protector 2017\NPDBKWTT.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: /Bkp
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: This is a wttbkp task
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\PROGRAM FILES (X86)\NET PROTECTOR 2017\ZVSCAN\ZVCMD64.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Net Protector 2017\EMAIL SCAN\EMAILSCN.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Net Protector 2017\EMAIL SCAN\EMAILSCN.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Net Protector 2017\EMAIL SCAN\EMAILSCN.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Net Protector 2017\EMAIL SCAN\EMAILSCN.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\PROGRAM FILES (X86)\NET PROTECTOR 2017\EMAIL SCAN\EMAILSCN.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "C:\Program Files (x86)\OneSystemCare\CleanupConsole.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: -Notify
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: %localappdata%\Microsoft\OneDrive\OneDriveStandaloneUpdater.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: {}
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\WINDOWS\system32\cmd.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: /c start "" "C:\Users\King_Heart\AppData\Roaming\Microsoft\Windows\ictcbicr\cardjedr.exe"
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "uaclauncher.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: -lloc dataupload --ignoresecondarysplash --runsilently --skipidlewait
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "C:\Program Files\Dell\SupportAssist\sessionchecker.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "C:\Program Files\Dell\SupportAssist\uaclauncher.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: -backgroundmon scripts\backgroundmon.xml -st PCDoctorBackgroundMonitorTask --ignoresecondarysplash --runsilently
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files\Reimage\Reimage Protector\ReiGuard.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: run_task
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Users\King_Heart\AppData\Local\Temp/Server.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "C:\Program Files\AMD\CNext\CNext\cncmd.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: startwithdelay
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "C:\Program Files\Synaptics\SynTP\SynTPEnh.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "uaclauncher.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: -silentenumeration -st SystemToolsDailyTest --ignoresecondarysplash --runsilently
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\UnHackMe\hackmon.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: $(Arg0)
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: Part of RegRun Suite/UnHackMe software. http://www.greatis.com
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Windows\system32\msfeedssync.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: sync
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: Updates out-of-date system feeds.
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "c:\program files (x86)\google\chrome\application\chrome.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: https://www.skype.com/go/downloading?source=lightinstaller&ver=7.40.0.103&LastError=-9
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "c:\program files (x86)\google\chrome\application\chrome.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: https://www.skype.com/go/downloading?source=lightinstaller&ver=7.40.0.103&LastError=-9
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\AdobeARM.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: This task keeps your Adobe Reader and Acrobat applications up to date with the latest enhancements and security fixes
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Apple Software Update\SoftwareUpdate.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: -task
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "C:\Program Files\KMSpico\AutoPico.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: /silent
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files\Dell\SupportAssistAgent\bin\SupportAssist.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: AutoUpdate
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: Dell SupportAssistAgent Auto Update Task Scheduler
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: /c
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: Keeps your Google software up to date. If this task is disabled or stopped, your Google software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This task uninstalls itself when there is no Google software using it.
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: /ua /installsource scheduler
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: Keeps your Google software up to date. If this task is disabled or stopped, your Google software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This task uninstalls itself when there is no Google software using it.
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: rundll32
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: "C:\Program Files (x86)\EhOAEeLcU\ZjcQch.dll",#1
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Net Protector 2017\NPDBKWTT.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: /Bkp
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: This is a wttbkp task
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\PROGRAM FILES (X86)\NET PROTECTOR 2017\ZVSCAN\ZVCMD64.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Net Protector 2017\EMAIL SCAN\EMAILSCN.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Net Protector 2017\EMAIL SCAN\EMAILSCN.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Net Protector 2017\EMAIL SCAN\EMAILSCN.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Net Protector 2017\EMAIL SCAN\EMAILSCN.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\PROGRAM FILES (X86)\NET PROTECTOR 2017\EMAIL SCAN\EMAILSCN.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "C:\Program Files (x86)\OneSystemCare\CleanupConsole.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: -Notify
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: %localappdata%\Microsoft\OneDrive\OneDriveStandaloneUpdater.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: {}
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\WINDOWS\system32\cmd.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: /c start "" "C:\Users\King_Heart\AppData\Roaming\Microsoft\Windows\ictcbicr\cardjedr.exe"
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "uaclauncher.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: -lloc dataupload --ignoresecondarysplash --runsilently --skipidlewait
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "C:\Program Files\Dell\SupportAssist\sessionchecker.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "C:\Program Files\Dell\SupportAssist\uaclauncher.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: -backgroundmon scripts\backgroundmon.xml -st PCDoctorBackgroundMonitorTask --ignoresecondarysplash --runsilently
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files\Reimage\Reimage Protector\ReiGuard.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: run_task
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Users\King_Heart\AppData\Local\Temp/Server.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "C:\Program Files\AMD\CNext\CNext\cncmd.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: startwithdelay
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "C:\Program Files\Synaptics\SynTP\SynTPEnh.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "uaclauncher.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: -silentenumeration -st SystemToolsDailyTest --ignoresecondarysplash --runsilently
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\UnHackMe\hackmon.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: $(Arg0)
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: Part of RegRun Suite/UnHackMe software. http://www.greatis.com
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Windows\system32\msfeedssync.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: sync
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: Updates out-of-date system feeds.
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "c:\program files (x86)\google\chrome\application\chrome.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: https://www.skype.com/go/downloading?source=lightinstaller&ver=7.40.0.103&LastError=-9
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "c:\program files (x86)\google\chrome\application\chrome.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: https://www.skype.com/go/downloading?source=lightinstaller&ver=7.40.0.103&LastError=-9
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\AdobeARM.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: This task keeps your Adobe Reader and Acrobat applications up to date with the latest enhancements and security fixes
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Apple Software Update\SoftwareUpdate.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: -task
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files\Dell\SupportAssistAgent\bin\SupportAssist.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: AutoUpdate
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: Dell SupportAssistAgent Auto Update Task Scheduler
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Net Protector 2017\NPDBKWTT.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: /Bkp
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: This is a wttbkp task
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\PROGRAM FILES (X86)\NET PROTECTOR 2017\ZVSCAN\ZVCMD64.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Net Protector 2017\EMAIL SCAN\EMAILSCN.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Net Protector 2017\EMAIL SCAN\EMAILSCN.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Net Protector 2017\EMAIL SCAN\EMAILSCN.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\Net Protector 2017\EMAIL SCAN\EMAILSCN.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\PROGRAM FILES (X86)\NET PROTECTOR 2017\EMAIL SCAN\EMAILSCN.EXE
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: %localappdata%\Microsoft\OneDrive\OneDriveStandaloneUpdater.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: {}
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\WINDOWS\system32\cmd.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: /c start "" "C:\Users\King_Heart\AppData\Roaming\Microsoft\Windows\ictcbicr\cardjedr.exe"
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "C:\Program Files\Dell\SupportAssist\sessionchecker.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "C:\Program Files\Dell\SupportAssist\uaclauncher.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: -backgroundmon scripts\backgroundmon.xml -st PCDoctorBackgroundMonitorTask --ignoresecondarysplash --runsilently
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "C:\Program Files\AMD\CNext\CNext\cncmd.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: startwithdelay
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "C:\Program Files\Synaptics\SynTP\SynTPEnh.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: 
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Program Files (x86)\UnHackMe\hackmon.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: $(Arg0)
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: Part of RegRun Suite/UnHackMe software. http://www.greatis.com
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: C:\Windows\system32\msfeedssync.exe
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: sync
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: true
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: Updates out-of-date system feeds.
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "c:\program files (x86)\google\chrome\application\chrome.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: https://www.skype.com/go/downloading?source=lightinstaller&ver=7.40.0.103&LastError=-9
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+
+Reanimator (reanimator.exe):  before new SimJSON
+jsp->sPath: Actions.Exec.Command
+jsp->sVal: "c:\program files (x86)\google\chrome\application\chrome.exe"
+
+jsp->sPath: Actions.Exec.Arguments
+jsp->sVal: https://www.skype.com/go/downloading?source=lightinstaller&ver=7.40.0.103&LastError=-9
+
+jsp->sPath: Settings.Enabled
+jsp->sVal: 
+
+jsp->sPath: RegistrationInfo.Description
+jsp->sVal: 
+

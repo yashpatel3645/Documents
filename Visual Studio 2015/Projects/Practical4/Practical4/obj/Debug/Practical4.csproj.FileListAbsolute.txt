@@ -1,0 +1,12 @@
+c:\users\king_heart\documents\visual studio 2012\Projects\Practical4\Practical4\bin\Debug\Practical4.exe.config
+c:\users\king_heart\documents\visual studio 2012\Projects\Practical4\Practical4\bin\Debug\Practical4.exe
+c:\users\king_heart\documents\visual studio 2012\Projects\Practical4\Practical4\bin\Debug\Practical4.pdb
+c:\users\king_heart\documents\visual studio 2012\Projects\Practical4\Practical4\obj\Debug\Practical4.csprojResolveAssemblyReference.cache
+c:\users\king_heart\documents\visual studio 2012\Projects\Practical4\Practical4\obj\Debug\Practical4.Form1.resources
+c:\users\king_heart\documents\visual studio 2012\Projects\Practical4\Practical4\obj\Debug\Practical4.Properties.Resources.resources
+c:\users\king_heart\documents\visual studio 2012\Projects\Practical4\Practical4\obj\Debug\Practical4.csproj.GenerateResource.Cache
+c:\users\king_heart\documents\visual studio 2012\Projects\Practical4\Practical4\obj\Debug\Practical4.exe
+c:\users\king_heart\documents\visual studio 2012\Projects\Practical4\Practical4\obj\Debug\Practical4.pdb
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Practical4\Practical4\bin\Debug\Practical4.exe.config
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Practical4\Practical4\obj\Debug\Practical4.exe
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Practical4\Practical4\obj\Debug\Practical4.pdb

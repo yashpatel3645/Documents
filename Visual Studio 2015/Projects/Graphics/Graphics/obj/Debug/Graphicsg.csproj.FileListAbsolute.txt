@@ -1,0 +1,8 @@
+c:\users\king_heart\documents\visual studio 2015\Projects\Graphics\Graphics\bin\Debug\Graphics.exe.config
+c:\users\king_heart\documents\visual studio 2015\Projects\Graphics\Graphics\bin\Debug\Graphics.exe
+c:\users\king_heart\documents\visual studio 2015\Projects\Graphics\Graphics\bin\Debug\Graphics.pdb
+c:\users\king_heart\documents\visual studio 2015\Projects\Graphics\Graphics\obj\Debug\Graphicsg.Form1.resources
+c:\users\king_heart\documents\visual studio 2015\Projects\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+c:\users\king_heart\documents\visual studio 2015\Projects\Graphics\Graphics\obj\Debug\Graphicsg.csproj.GenerateResource.Cache
+c:\users\king_heart\documents\visual studio 2015\Projects\Graphics\Graphics\obj\Debug\Graphics.exe
+c:\users\king_heart\documents\visual studio 2015\Projects\Graphics\Graphics\obj\Debug\Graphics.pdb

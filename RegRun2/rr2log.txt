@@ -1,0 +1,754 @@
+Anti-malware scan started at: 25.02.2018 5:38:07 PM
+25.02.2018 5:51:33 PM Applications
+Probably Malicious: OneSystemCare_is1 = "C:\Program Files (x86)\OneSystemCare\unins000.exe" /SILENT
+25.02.2018 5:51:33 PM Applications
+Probably Malicious: FastDataX_is1 = "C:\Program Files (x86)\FastDataX\unins000.exe" /SILENT
+25.02.2018 5:51:33 PM Applications
+Probably Malicious: Reimage Repair = C:\Program Files\Reimage\Reimage Repair\uninst.exe
+25.02.2018 5:54:22 PM Unwanted Software Files
+Probably Malicious: SECOH-QAD.EXE = C:\WINDOWS\SECOH-QAD.EXE
+25.02.2018 5:54:22 PM Unwanted Software Files
+Probably Malicious: C:\REI\ = C:\REI\
+25.02.2018 5:54:22 PM Unwanted Software Files
+Probably Malicious: REIMAGE.INI = C:\WINDOWS\REIMAGE.INI
+25.02.2018 5:54:22 PM Unwanted Software Files
+Probably Malicious: C:\WINDOWS\RSS\ = C:\WINDOWS\RSS\
+25.02.2018 5:54:22 PM Unwanted Software Files
+Probably Malicious: C:\ProgramData\DAHISERVICE\ = C:\ProgramData\DAHISERVICE\
+25.02.2018 5:54:22 PM Unwanted Software Files
+Probably Malicious: Reimage = C:\PROGRAM FILES\REIMAGE\
+25.02.2018 5:54:22 PM Unwanted Software Files
+Probably Malicious: DriverToolkit = C:\PROGRAM FILES (X86)\DRIVERTOOLKIT\
+25.02.2018 5:54:22 PM Unwanted Software Files
+Probably Malicious: One System Care = C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\
+25.02.2018 5:54:22 PM Unwanted Software Files
+Probably Malicious: OneSystemCare = C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE\
+25.02.2018 5:54:22 PM Unwanted Software Files
+Probably Malicious: Reimage Protector = C:\PROGRAMDATA\REIMAGE PROTECTOR\
+25.02.2018 5:54:22 PM Unwanted Software Files
+Probably Malicious: DriverToolkit = C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT\
+25.02.2018 5:54:22 PM Unwanted Software Files
+Probably Malicious: FastDataX = C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX\
+Delete Marked Items Auto Start Apps->Unwanted Software Files. C:\WINDOWS\RSS\=C:\WINDOWS\RSS\
+Deleted: C:\WINDOWS\RSS
+Cannot remove folder: C:\WINDOWS\RSS\
+Error: 0
+Delete At reboot: C:\WINDOWS\RSS
+-------------------------------------------------------
+25.02.2018 5:54:31 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: C:\WINDOWS\RSS
+Delete Marked Items Auto Start Apps->Unwanted Software Files. C:\ProgramData\DAHISERVICE\=C:\ProgramData\DAHISERVICE\
+Deleted: C:\ProgramData\DAHISERVICE
+Cannot remove folder: C:\ProgramData\DAHISERVICE\
+Error: 0
+Delete At reboot: C:\ProgramData\DAHISERVICE
+-------------------------------------------------------
+25.02.2018 5:54:31 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: C:\ProgramData\DAHISERVICE
+Delete Marked Items Auto Start Apps->Unwanted Software Files. Reimage=C:\PROGRAM FILES\REIMAGE\
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Protector\ProtectorUpdater.exe
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Protector\ReiProtectorM.exe
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Protector\ReiScanner.exe
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Protector
+Cannot delete: C:\PROGRAM FILES\REIMAGE\Reimage Protector
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\LZMA.EXE
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\msvcr120.dll
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\Reimage Repair.url
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\Reimage.exe
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\Reimageicon.ico
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\ReimageReminder.exe
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\ReimageRepair.exe
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\ReimageSafeMode.exe
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\Reimage_SafeMode.ico
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\Reimage_uninstall.ico
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\Reimage_website.ico
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\REI_AVIRA.exe
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\REI_Axcontrol.dll
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\REI_AxControl.inf
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\REI_Axcontrol.lza
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\REI_Engine.dll
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\REI_Engine.lza
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\REI_SupportInfoTool.exe
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\savapi.dll
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\uninst.exe
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair\version.rei
+Deleted: C:\PROGRAM FILES\REIMAGE\Reimage Repair
+Cannot delete: C:\PROGRAM FILES\REIMAGE\Reimage Repair
+Cannot delete: C:\PROGRAM FILES\REIMAGE
+Cannot remove folder: C:\PROGRAM FILES\REIMAGE\
+Error: 0
+Delete At reboot: C:\PROGRAM FILES\REIMAGE
+-------------------------------------------------------
+25.02.2018 5:54:31 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: C:\PROGRA~1\REIMAGE
+Delete Marked Items Auto Start Apps->Unwanted Software Files. SECOH-QAD.EXE=C:\WINDOWS\SECOH-QAD.EXE
+Delete Marked Items Auto Start Apps->Unwanted Software Files. C:\REI\=C:\REI\
+Deleted: C:\REI\About.txt
+Deleted: C:\REI\AV\avupdate.exe
+Deleted: C:\REI\AV\avupdate_msg.avr
+Deleted: C:\REI\AV\cacert.crt
+Deleted: C:\REI\AV\HBEDV.KEY
+Deleted: C:\REI\AV\msvcr120.dll
+Deleted: C:\REI\AV\productname.dat
+Deleted: C:\REI\AV\savapi.exe
+Deleted: C:\REI\AV\savapi_restart.exe
+Deleted: C:\REI\AV\savapi_stub.exe
+Deleted: C:\REI\AV\xbvRei.vdf
+Deleted: C:\REI\AV
+Cannot delete: C:\REI\AV
+Deleted: C:\REI\cfl.rei
+Deleted: C:\REI\rei1872nvt.ini
+Deleted: C:\REI\reimage.qsr
+Deleted: C:\REI\Results\EXE1.8.7.2\RUN20180203_1358\debug-repair-2.log
+Deleted: C:\REI\Results\EXE1.8.7.2\RUN20180203_1358\debug-repair.log
+Deleted: C:\REI\Results\EXE1.8.7.2\RUN20180203_1358\Info_EnvironmentVars.res
+Deleted: C:\REI\Results\EXE1.8.7.2\RUN20180203_1358\Info_Installed.rec
+Deleted: C:\REI\Results\EXE1.8.7.2\RUN20180203_1358\out.log
+Deleted: C:\REI\Results\EXE1.8.7.2\RUN20180203_1358\StabilityScanRes.xml
+Deleted: C:\REI\Results\EXE1.8.7.2\RUN20180203_1358
+Cannot delete: C:\REI\Results\EXE1.8.7.2\RUN20180203_1358
+Deleted: C:\REI\Results\EXE1.8.7.2
+Cannot delete: C:\REI\Results\EXE1.8.7.2
+Deleted: C:\REI\Results
+Cannot delete: C:\REI\Results
+Deleted: C:\REI\SupportInfoTool.ini
+Deleted: C:\REI\Temp\20180203_1358\ApplicationList.ini
+Deleted: C:\REI\Temp\20180203_1358\DownloaderTemp
+Cannot delete: C:\REI\Temp\20180203_1358\DownloaderTemp
+Deleted: C:\REI\Temp\20180203_1358
+Cannot delete: C:\REI\Temp\20180203_1358
+Deleted: C:\REI\Temp
+Cannot delete: C:\REI\Temp
+Deleted: C:\REI
+Cannot remove folder: C:\REI\
+Error: 0
+Delete At reboot: C:\REI
+-------------------------------------------------------
+25.02.2018 5:54:31 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: \??\C:\PROGRA~1\REIMAGE
+Delete: C:\REI
+Delete Marked Items Auto Start Apps->Unwanted Software Files. REIMAGE.INI=C:\WINDOWS\REIMAGE.INI
+Delete Marked Items Auto Start Apps->Unwanted Software Files. Reimage Protector=C:\PROGRAMDATA\REIMAGE PROTECTOR\
+Deleted: C:\PROGRAMDATA\REIMAGE PROTECTOR\cfl.rei
+Deleted: C:\PROGRAMDATA\REIMAGE PROTECTOR\Results\active_protection.txt
+Deleted: C:\PROGRAMDATA\REIMAGE PROTECTOR\Results\ProtectorPackage.log
+Deleted: C:\PROGRAMDATA\REIMAGE PROTECTOR\Results\ProtectorUpdater.log
+Deleted: C:\PROGRAMDATA\REIMAGE PROTECTOR\Results\url_setting_definitions.txt
+Deleted: C:\PROGRAMDATA\REIMAGE PROTECTOR\Results
+Cannot delete: C:\PROGRAMDATA\REIMAGE PROTECTOR\Results
+Deleted: C:\PROGRAMDATA\REIMAGE PROTECTOR
+Cannot remove folder: C:\PROGRAMDATA\REIMAGE PROTECTOR\
+Error: 0
+Delete At reboot: C:\PROGRAMDATA\REIMAGE PROTECTOR
+-------------------------------------------------------
+25.02.2018 5:54:31 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: \??\C:\PROGRA~1\REIMAGE
+Delete: \??\C:\REI
+Delete: C:\PROGRAMDATA\REIMAGE PROTECTOR
+Delete Marked Items Auto Start Apps->Unwanted Software Files. DriverToolkit=C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT\
+Deleted: C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT
+Cannot remove folder: C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT\
+Error: 0
+Delete At reboot: C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT
+-------------------------------------------------------
+25.02.2018 5:54:31 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: \??\C:\PROGRA~1\REIMAGE
+Delete: \??\C:\REI
+Delete: \??\C:\PROGRAMDATA\REIMAGE PROTECTOR
+Delete: C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT
+Delete Marked Items Auto Start Apps->Unwanted Software Files. FastDataX=C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX\
+Deleted: C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX\log\installer\25-01-2018(09-16).log
+Deleted: C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX\log\installer
+Cannot delete: C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX\log\installer
+Deleted: C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX\log
+Cannot delete: C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX\log
+Deleted: C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX
+Cannot remove folder: C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX\
+Error: 0
+Delete At reboot: C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX
+-------------------------------------------------------
+25.02.2018 5:54:31 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: \??\C:\PROGRA~1\REIMAGE
+Delete: \??\C:\REI
+Delete: \??\C:\PROGRAMDATA\REIMAGE PROTECTOR
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT
+Delete: C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX
+Delete Marked Items Auto Start Apps->Unwanted Software Files. DriverToolkit=C:\PROGRAM FILES (X86)\DRIVERTOOLKIT\
+Deleted: C:\PROGRAM FILES (X86)\DRIVERTOOLKIT\Backup
+Cannot delete: C:\PROGRAM FILES (X86)\DRIVERTOOLKIT\Backup
+Deleted: C:\PROGRAM FILES (X86)\DRIVERTOOLKIT\Download
+Cannot delete: C:\PROGRAM FILES (X86)\DRIVERTOOLKIT\Download
+Deleted: C:\PROGRAM FILES (X86)\DRIVERTOOLKIT
+Cannot remove folder: C:\PROGRAM FILES (X86)\DRIVERTOOLKIT\
+Error: 0
+Delete At reboot: C:\PROGRAM FILES (X86)\DRIVERTOOLKIT
+-------------------------------------------------------
+25.02.2018 5:54:32 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: \??\C:\PROGRA~1\REIMAGE
+Delete: \??\C:\REI
+Delete: \??\C:\PROGRAMDATA\REIMAGE PROTECTOR
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX
+Delete: C:\PROGRAM FILES (X86)\DRIVERTOOLKIT
+Delete Marked Items Auto Start Apps->Unwanted Software Files. One System Care=C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\Languages\Danish.json
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\Languages\Dutch.json
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\Languages\English.json
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\Languages\EnglishPC.json
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\Languages\French.json
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\Languages\German.json
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\Languages\Italian.json
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\Languages\Norwegian.json
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\Languages\Parameters.json
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\Languages\Portuguese.json
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\Languages\Spanish.json
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\Languages\Swedish.json
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\Languages
+Cannot delete: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\Languages
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE
+Cannot remove folder: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE\
+Error: 0
+Delete At reboot: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE
+-------------------------------------------------------
+25.02.2018 5:54:32 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: \??\C:\PROGRA~1\REIMAGE
+Delete: \??\C:\REI
+Delete: \??\C:\PROGRAMDATA\REIMAGE PROTECTOR
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX
+Delete: \??\C:\PROGRAM FILES (X86)\DRIVERTOOLKIT
+Delete: C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE
+Delete Marked Items Auto Start Apps->Unwanted Software Files. OneSystemCare=C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE\
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE\log\20180225i-0932.log
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE\log
+Cannot delete: C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE\log
+Deleted: C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE
+Cannot remove folder: C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE\
+Error: 0
+Delete At reboot: C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE
+-------------------------------------------------------
+25.02.2018 5:54:32 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: \??\C:\PROGRA~1\REIMAGE
+Delete: \??\C:\REI
+Delete: \??\C:\PROGRAMDATA\REIMAGE PROTECTOR
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX
+Delete: \??\C:\PROGRAM FILES (X86)\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE
+Delete: C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE
+25.02.2018 5:55:02 PM User Shortcuts
+Unknown: C:\Users\King_Heart\Desktop\Calculator.lnk = C:\USERS\KING_HEART\DOCUMENTS\VISUAL STUDIO 2015\PROJECTS\CALCULATOR\CALCULATOR\BIN\DEBUG\CALCULATOR.EXE
+25.02.2018 5:55:02 PM User Shortcuts
+Unknown: C:\Users\King_Heart\Desktop\eclipse.lnk = C:\USERS\KING_HEART\ECLIPSE\JAVA-LATEST-RELEASED\ECLIPSE\ECLIPSE.EXE
+25.02.2018 5:55:02 PM User Shortcuts
+Unknown: C:\Users\Public\Desktop\NetBeans IDE 8.1.lnk = C:\PROGRAM FILES (X86)\NETBEANS 8.1\BIN\NETBEANS.EXE
+25.02.2018 5:55:02 PM User Shortcuts
+Unknown: C:\Users\Public\Desktop\Turbo C++.lnk = C:\WINDOWS\INSTALLER\{16FEECA3-A0BF-44ED-A894-C0E7B29FAA2B}\TURBO_C__.EXE1_3B789388EF8A4C08A75F364FE87B9697.EXE
+25.02.2018 5:55:02 PM Registry Run
+Probably Malicious: RedGrass = "C:\WINDOWS\rss\csrss.exe"
+25.02.2018 5:55:02 PM Registry Run
+Suspicious: cgkspxvw = "C:\Users\King_Heart\clbvutcs.exe"
+25.02.2018 5:55:02 PM Scheduled Tasks
+Probably Malicious: HQkvoPDXLIOemXQ = rundll32 "C:\Program Files (x86)\EhOAEeLcU\ZjcQch.dll",#1
+25.02.2018 5:55:02 PM Scheduled Tasks 2
+Suspicious: C:\WINDOWS\SYSNATIVE\TASKS\AutoPico Daily Restart = "C:\Program Files\KMSpico\AutoPico.exe"
+25.02.2018 5:55:02 PM Scheduled Tasks 2
+Suspicious: C:\WINDOWS\SYSNATIVE\TASKS\GoogleUpdateTaskMachineCore = C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+25.02.2018 5:55:02 PM Scheduled Tasks 2
+Suspicious: C:\WINDOWS\SYSNATIVE\TASKS\GoogleUpdateTaskMachineUA = C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+25.02.2018 5:55:02 PM Scheduled Tasks 2
+Probably Malicious: C:\WINDOWS\SYSNATIVE\TASKS\HQkvoPDXLIOemXQ = rundll32 "C:\Program Files (x86)\EhOAEeLcU\ZjcQch.dll",#1
+25.02.2018 5:55:02 PM Scheduled Tasks 2
+Probably Malicious: C:\WINDOWS\SYSNATIVE\TASKS\One System Care Monitor = "C:\Program Files (x86)\OneSystemCare\CleanupConsole.exe"
+25.02.2018 5:55:02 PM Scheduled Tasks 2
+Suspicious: C:\WINDOWS\SYSNATIVE\TASKS\PCDDataUploadTask = "uaclauncher.exe"
+25.02.2018 5:55:02 PM Scheduled Tasks 2
+Probably Malicious: C:\WINDOWS\SYSNATIVE\TASKS\ReimageUpdater = C:\Program Files\Reimage\Reimage Protector\ReiGuard.exe
+25.02.2018 5:55:02 PM Scheduled Tasks 2
+Suspicious: C:\WINDOWS\SYSNATIVE\TASKS\Server = C:\Users\King_Heart\AppData\Local\Temp/Server.exe
+25.02.2018 5:55:02 PM Scheduled Tasks 2
+Suspicious: C:\WINDOWS\SYSNATIVE\TASKS\SystemToolsDailyTest = "uaclauncher.exe"
+25.02.2018 5:55:02 PM Scheduled Tasks 2.0 Cached
+Suspicious: AutoPico Daily Restart = "C:\Program Files\KMSpico\AutoPico.exe"
+25.02.2018 5:55:02 PM Scheduled Tasks 2.0 Cached
+Suspicious: GoogleUpdateTaskMachineCore = C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+25.02.2018 5:55:02 PM Scheduled Tasks 2.0 Cached
+Suspicious: GoogleUpdateTaskMachineUA = C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+25.02.2018 5:55:02 PM Scheduled Tasks 2.0 Cached
+Probably Malicious: HQkvoPDXLIOemXQ = rundll32 "C:\Program Files (x86)\EhOAEeLcU\ZjcQch.dll",#1
+25.02.2018 5:55:03 PM Scheduled Tasks 2.0 Cached
+Probably Malicious: One System Care Monitor = "C:\Program Files (x86)\OneSystemCare\CleanupConsole.exe"
+25.02.2018 5:55:03 PM Scheduled Tasks 2.0 Cached
+Suspicious: PCDDataUploadTask = "uaclauncher.exe"
+25.02.2018 5:55:03 PM Scheduled Tasks 2.0 Cached
+Probably Malicious: ReimageUpdater = C:\Program Files\Reimage\Reimage Protector\ReiGuard.exe
+25.02.2018 5:55:03 PM Scheduled Tasks 2.0 Cached
+Suspicious: Server = C:\Users\King_Heart\AppData\Local\Temp/Server.exe
+25.02.2018 5:55:03 PM Scheduled Tasks 2.0 Cached
+Suspicious: SystemToolsDailyTest = "uaclauncher.exe"
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2.0 Cached. HQkvoPDXLIOemXQ=rundll32 "C:\Program Files (x86)\EhOAEeLcU\ZjcQch.dll",#1
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\HQkvoPDXLIOemXQ
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Boot\{A083FA5A-A775-4965-89F9-75369407C17D}
+The DelAnyKey failed too.
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Logon\{A083FA5A-A775-4965-89F9-75369407C17D}
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Maintenance\{A083FA5A-A775-4965-89F9-75369407C17D}
+The DelAnyKey failed too.
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{A083FA5A-A775-4965-89F9-75369407C17D}
+The DelAnyKey failed too.
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{A083FA5A-A775-4965-89F9-75369407C17D}
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2.0 Cached. One System Care Monitor="C:\Program Files (x86)\OneSystemCare\CleanupConsole.exe"
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\One System Care Monitor
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Boot\{E469CD21-C2A9-4485-8D5A-D78BBA0991D7}
+The DelAnyKey failed too.
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Logon\{E469CD21-C2A9-4485-8D5A-D78BBA0991D7}
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Maintenance\{E469CD21-C2A9-4485-8D5A-D78BBA0991D7}
+The DelAnyKey failed too.
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{E469CD21-C2A9-4485-8D5A-D78BBA0991D7}
+The DelAnyKey failed too.
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{E469CD21-C2A9-4485-8D5A-D78BBA0991D7}
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2. C:\WINDOWS\SYSNATIVE\TASKS\HQkvoPDXLIOemXQ=rundll32 "C:\Program Files (x86)\EhOAEeLcU\ZjcQch.dll",#1
+-------------------------------------------------------
+25.02.2018 5:55:12 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: \??\C:\PROGRA~1\REIMAGE
+Delete: \??\C:\REI
+Delete: \??\C:\PROGRAMDATA\REIMAGE PROTECTOR
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX
+Delete: \??\C:\PROGRAM FILES (X86)\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE
+Delete: C:\WINDOWS\SYSNATIVE\TASKS\HQkvoPDXLIOemXQ
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2. C:\WINDOWS\SYSNATIVE\TASKS\One System Care Monitor="C:\Program Files (x86)\OneSystemCare\CleanupConsole.exe"
+-------------------------------------------------------
+25.02.2018 5:55:13 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: \??\C:\PROGRA~1\REIMAGE
+Delete: \??\C:\REI
+Delete: \??\C:\PROGRAMDATA\REIMAGE PROTECTOR
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX
+Delete: \??\C:\PROGRAM FILES (X86)\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\HQkvoPDXLIOemXQ
+Delete: C:\WINDOWS\SYSNATIVE\TASKS\One System Care Monitor
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2. C:\WINDOWS\SYSNATIVE\TASKS\ReimageUpdater=C:\Program Files\Reimage\Reimage Protector\ReiGuard.exe
+-------------------------------------------------------
+25.02.2018 5:55:13 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: \??\C:\PROGRA~1\REIMAGE
+Delete: \??\C:\REI
+Delete: \??\C:\PROGRAMDATA\REIMAGE PROTECTOR
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX
+Delete: \??\C:\PROGRAM FILES (X86)\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\HQkvoPDXLIOemXQ
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\One System Care Monitor
+Delete: C:\WINDOWS\SYSNATIVE\TASKS\ReimageUpdater
+Delete Marked Items Auto Start Apps->Registry Run. RedGrass="C:\WINDOWS\rss\csrss.exe"
+Delete Marked Items Auto Start Apps->Scheduled Tasks. HQkvoPDXLIOemXQ=rundll32 "C:\Program Files (x86)\EhOAEeLcU\ZjcQch.dll",#1
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2.0 Cached. ReimageUpdater=C:\Program Files\Reimage\Reimage Protector\ReiGuard.exe
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\ReimageUpdater
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Boot\{4321131E-7507-4729-BD29-DB4FBEA34F88}
+The DelAnyKey failed too.
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Logon\{4321131E-7507-4729-BD29-DB4FBEA34F88}
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Maintenance\{4321131E-7507-4729-BD29-DB4FBEA34F88}
+The DelAnyKey failed too.
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{4321131E-7507-4729-BD29-DB4FBEA34F88}
+The DelAnyKey failed too.
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{4321131E-7507-4729-BD29-DB4FBEA34F88}
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2. C:\WINDOWS\SYSNATIVE\TASKS\GoogleUpdateTaskMachineUA=C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+-------------------------------------------------------
+25.02.2018 5:55:15 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: \??\C:\PROGRA~1\REIMAGE
+Delete: \??\C:\REI
+Delete: \??\C:\PROGRAMDATA\REIMAGE PROTECTOR
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX
+Delete: \??\C:\PROGRAM FILES (X86)\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\HQkvoPDXLIOemXQ
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\One System Care Monitor
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\ReimageUpdater
+Delete: C:\WINDOWS\SYSNATIVE\TASKS\GoogleUpdateTaskMachineUA
+Delete Marked Items Auto Start Apps->Registry Run. cgkspxvw="C:\Users\King_Heart\clbvutcs.exe"
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2. C:\WINDOWS\SYSNATIVE\TASKS\AutoPico Daily Restart="C:\Program Files\KMSpico\AutoPico.exe"
+-------------------------------------------------------
+25.02.2018 5:55:17 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: \??\C:\PROGRA~1\REIMAGE
+Delete: \??\C:\REI
+Delete: \??\C:\PROGRAMDATA\REIMAGE PROTECTOR
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX
+Delete: \??\C:\PROGRAM FILES (X86)\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\HQkvoPDXLIOemXQ
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\One System Care Monitor
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\ReimageUpdater
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\GoogleUpdateTaskMachineUA
+Delete: C:\WINDOWS\SYSNATIVE\TASKS\AutoPico Daily Restart
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2. C:\WINDOWS\SYSNATIVE\TASKS\GoogleUpdateTaskMachineCore=C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+-------------------------------------------------------
+25.02.2018 5:55:17 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: \??\C:\PROGRA~1\REIMAGE
+Delete: \??\C:\REI
+Delete: \??\C:\PROGRAMDATA\REIMAGE PROTECTOR
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX
+Delete: \??\C:\PROGRAM FILES (X86)\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\HQkvoPDXLIOemXQ
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\One System Care Monitor
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\ReimageUpdater
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\GoogleUpdateTaskMachineUA
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\AutoPico Daily Restart
+Delete: C:\WINDOWS\SYSNATIVE\TASKS\GoogleUpdateTaskMachineCore
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2. C:\WINDOWS\SYSNATIVE\TASKS\PCDDataUploadTask="uaclauncher.exe"
+-------------------------------------------------------
+25.02.2018 5:55:18 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: \??\C:\PROGRA~1\REIMAGE
+Delete: \??\C:\REI
+Delete: \??\C:\PROGRAMDATA\REIMAGE PROTECTOR
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX
+Delete: \??\C:\PROGRAM FILES (X86)\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\HQkvoPDXLIOemXQ
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\One System Care Monitor
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\ReimageUpdater
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\GoogleUpdateTaskMachineUA
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\AutoPico Daily Restart
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\GoogleUpdateTaskMachineCore
+Delete: C:\WINDOWS\SYSNATIVE\TASKS\PCDDataUploadTask
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2.0 Cached. PCDDataUploadTask="uaclauncher.exe"
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\PCDDataUploadTask
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Boot\{BE5D3294-D6A0-46AC-A9E3-D55CE8E4FAE0}
+The DelAnyKey failed too.
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Logon\{BE5D3294-D6A0-46AC-A9E3-D55CE8E4FAE0}
+The DelAnyKey failed too.
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Maintenance\{BE5D3294-D6A0-46AC-A9E3-D55CE8E4FAE0}
+The DelAnyKey failed too.
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{BE5D3294-D6A0-46AC-A9E3-D55CE8E4FAE0}
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{BE5D3294-D6A0-46AC-A9E3-D55CE8E4FAE0}
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2.0 Cached. GoogleUpdateTaskMachineUA=C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\GoogleUpdateTaskMachineUA
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Boot\{41175946-80C0-404C-BBDE-B59E68851BA9}
+The DelAnyKey failed too.
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Logon\{41175946-80C0-404C-BBDE-B59E68851BA9}
+The DelAnyKey failed too.
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Maintenance\{41175946-80C0-404C-BBDE-B59E68851BA9}
+The DelAnyKey failed too.
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{41175946-80C0-404C-BBDE-B59E68851BA9}
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{41175946-80C0-404C-BBDE-B59E68851BA9}
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2.0 Cached. SystemToolsDailyTest="uaclauncher.exe"
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\SystemToolsDailyTest
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Boot\{0A63CDE3-FE16-4F5F-A94A-51B39EA73A0B}
+The DelAnyKey failed too.
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Logon\{0A63CDE3-FE16-4F5F-A94A-51B39EA73A0B}
+The DelAnyKey failed too.
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Maintenance\{0A63CDE3-FE16-4F5F-A94A-51B39EA73A0B}
+The DelAnyKey failed too.
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{0A63CDE3-FE16-4F5F-A94A-51B39EA73A0B}
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{0A63CDE3-FE16-4F5F-A94A-51B39EA73A0B}
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2.0 Cached. Server=C:\Users\King_Heart\AppData\Local\Temp/Server.exe
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\Server
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Boot\{21293090-0BC6-4E21-885B-43B2CF288D13}
+The DelAnyKey failed too.
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Logon\{21293090-0BC6-4E21-885B-43B2CF288D13}
+The DelAnyKey failed too.
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Maintenance\{21293090-0BC6-4E21-885B-43B2CF288D13}
+The DelAnyKey failed too.
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{21293090-0BC6-4E21-885B-43B2CF288D13}
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{21293090-0BC6-4E21-885B-43B2CF288D13}
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2. C:\WINDOWS\SYSNATIVE\TASKS\SystemToolsDailyTest="uaclauncher.exe"
+-------------------------------------------------------
+25.02.2018 5:55:18 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: \??\C:\PROGRA~1\REIMAGE
+Delete: \??\C:\REI
+Delete: \??\C:\PROGRAMDATA\REIMAGE PROTECTOR
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX
+Delete: \??\C:\PROGRAM FILES (X86)\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\HQkvoPDXLIOemXQ
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\One System Care Monitor
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\ReimageUpdater
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\GoogleUpdateTaskMachineUA
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\AutoPico Daily Restart
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\GoogleUpdateTaskMachineCore
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\PCDDataUploadTask
+Delete: C:\WINDOWS\SYSNATIVE\TASKS\SystemToolsDailyTest
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2. C:\WINDOWS\SYSNATIVE\TASKS\Server=C:\Users\King_Heart\AppData\Local\Temp/Server.exe
+-------------------------------------------------------
+25.02.2018 5:55:19 PM Approved File Replacement 
+Delete: \??\C:\Config.Msi\617b5.rbf
+Delete: \??\C:\Config.Msi\617b7.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\_iu14D2N.tmp
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\nsw21C.tmp\
+Delete: \??\C:\USERS\KING_HEART\CLBVUTCS.EXE
+Delete: \??\C:\Config.Msi\2bebecc9.rbf
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp\Au_.exe
+Delete: \??\C:\Users\KING_H~1\AppData\Local\Temp\~nsu.tmp
+Delete: \??\C:\WINDOWS\RSS
+Delete: \??\C:\ProgramData\DAHISERVICE
+Delete: \??\C:\PROGRA~1\REIMAGE
+Delete: \??\C:\REI
+Delete: \??\C:\PROGRAMDATA\REIMAGE PROTECTOR
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\LOCAL\FASTDATAX
+Delete: \??\C:\PROGRAM FILES (X86)\DRIVERTOOLKIT
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONE SYSTEM CARE
+Delete: \??\C:\USERS\KING_HEART\APPDATA\ROAMING\ONESYSTEMCARE
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\HQkvoPDXLIOemXQ
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\One System Care Monitor
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\ReimageUpdater
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\GoogleUpdateTaskMachineUA
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\AutoPico Daily Restart
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\GoogleUpdateTaskMachineCore
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\PCDDataUploadTask
+Delete: \??\C:\WINDOWS\SYSNATIVE\TASKS\SystemToolsDailyTest
+Delete: C:\WINDOWS\SYSNATIVE\TASKS\Server
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2.0 Cached. GoogleUpdateTaskMachineCore=C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\GoogleUpdateTaskMachineCore
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Boot\{9FEE713F-C13B-46FE-B602-7BCB1B16BF74}
+The DelAnyKey failed too.
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Logon\{9FEE713F-C13B-46FE-B602-7BCB1B16BF74}
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Maintenance\{9FEE713F-C13B-46FE-B602-7BCB1B16BF74}
+The DelAnyKey failed too.
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{9FEE713F-C13B-46FE-B602-7BCB1B16BF74}
+The DelAnyKey failed too.
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{9FEE713F-C13B-46FE-B602-7BCB1B16BF74}
+Delete Marked Items Auto Start Apps->Scheduled Tasks 2.0 Cached. AutoPico Daily Restart="C:\Program Files\KMSpico\AutoPico.exe"
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\AutoPico Daily Restart
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Boot\{6B34327A-E5DA-42A6-80E6-CE0D92AC9CD2}
+The DelAnyKey failed too.
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Logon\{6B34327A-E5DA-42A6-80E6-CE0D92AC9CD2}
+The DelAnyKey failed too.
+Error deleting registry key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Maintenance\{6B34327A-E5DA-42A6-80E6-CE0D92AC9CD2}
+The DelAnyKey failed too.
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{6B34327A-E5DA-42A6-80E6-CE0D92AC9CD2}
+Deleted Key:SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{6B34327A-E5DA-42A6-80E6-CE0D92AC9CD2}
+25.02.2018 5:55:24 PM User Shortcuts
+Unknown: C:\Users\King_Heart\Desktop\Calculator.lnk = C:\USERS\KING_HEART\DOCUMENTS\VISUAL STUDIO 2015\PROJECTS\CALCULATOR\CALCULATOR\BIN\DEBUG\CALCULATOR.EXE
+25.02.2018 5:55:24 PM User Shortcuts
+Unknown: C:\Users\King_Heart\Desktop\eclipse.lnk = C:\USERS\KING_HEART\ECLIPSE\JAVA-LATEST-RELEASED\ECLIPSE\ECLIPSE.EXE
+25.02.2018 5:55:24 PM User Shortcuts
+Unknown: C:\Users\Public\Desktop\NetBeans IDE 8.1.lnk = C:\PROGRAM FILES (X86)\NETBEANS 8.1\BIN\NETBEANS.EXE
+25.02.2018 5:55:25 PM User Shortcuts
+Unknown: C:\Users\Public\Desktop\Turbo C++.lnk = C:\WINDOWS\INSTALLER\{16FEECA3-A0BF-44ED-A894-C0E7B29FAA2B}\TURBO_C__.EXE1_3B789388EF8A4C08A75F364FE87B9697.EXE
+25.02.2018 5:56:47 PM Auto Services
+Suspicious: gupdate = "C:\PROGRAM FILES (X86)\GOOGLE\UPDATE\GOOGLEUPDATE.EXE" /SVC
+25.02.2018 5:56:47 PM Auto Services
+Suspicious: gupdatem = "C:\PROGRAM FILES (X86)\GOOGLE\UPDATE\GOOGLEUPDATE.EXE" /MEDSVC
+25.02.2018 5:56:47 PM Auto Services
+Suspicious: lptbygef = C:\WINDOWS\SYSWOW64\LPTBYGEF\NRYIIWGC.EXE /D"C:\USERS\KING_H~1\APPDATA\LOCAL\TEMP\110F.TMP.EXE"
+25.02.2018 5:56:47 PM Image Executions Debugger
+Probably Malicious: GOOGLEUPDATEBETA.EXE = C:\PROGRA~2\NETPRO~1\BP_POPUP.EXE
+25.02.2018 5:56:47 PM Image Executions Debugger
+Suspicious: wscript.exe = NPAV
+Delete Marked Items Kernel Auto Boot->Image Executions Debugger. GOOGLEUPDATEBETA.EXE=C:\PROGRA~2\NETPRO~1\BP_POPUP.EXE
+Delete Marked Items Kernel Auto Boot->Auto Services. gupdatem="C:\PROGRAM FILES (X86)\GOOGLE\UPDATE\GOOGLEUPDATE.EXE" /MEDSVC
+Delete Marked Items Kernel Auto Boot->Auto Services. gupdate="C:\PROGRAM FILES (X86)\GOOGLE\UPDATE\GOOGLEUPDATE.EXE" /SVC
+Delete Marked Items Kernel Auto Boot->Image Executions Debugger. wscript.exe=NPAV
+Delete Marked Items Kernel Auto Boot->Auto Services. lptbygef=C:\WINDOWS\SYSWOW64\LPTBYGEF\NRYIIWGC.EXE /D"C:\USERS\KING_H~1\APPDATA\LOCAL\TEMP\110F.TMP.EXE"
+25.02.2018 5:58:39 PM IE Extensions - All Users
+Unknown: {2670000A-7350-4f3c-8081-5663EE0C6C49} = 
+25.02.2018 5:58:39 PM IE Extensions - All Users
+Unknown: {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA} = 
+25.02.2018 5:58:39 PM Google Chrome Addons
+Unknown: doknpakcpjkbnincdeoocojhnhndmhek = C:\Users\King_Heart\AppData\Local\Google\Chrome\User Data\Default\Extensions\doknpakcpjkbnincdeoocojhnhndmhek\1.0.1_1
+25.02.2018 5:58:39 PM Google Chrome Addons
+Unknown: jbbjocmjkcmpkocchmapgcnggkfifhno = C:\Users\King_Heart\AppData\Local\Google\Chrome\User Data\Default\Extensions\jbbjocmjkcmpkocchmapgcnggkfifhno\0.9.1_0
+25.02.2018 5:58:39 PM Pre-installed extensions
+Unknown: dgldcllfgcheelimlbmilnkilnamlhbd = https://clients2.google.com/service/update2/crx
+25.02.2018 5:58:48 PM Chrome Protected Settings
+Unknown: search_web_data.url = {google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:iOSSearchLanguage}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}
+25.02.2018 5:58:48 PM Chrome Protected Settings
+Unknown: search_web_data.new_tab_url = {google:baseURL}_/chrome/newtab?{google:RLZ}ie={inputEncoding}
+25.02.2018 5:58:48 PM Chrome Protected Settings
+Unknown: session.startup_urls = ["http:\/\/www.google.co.in\/"]
+25.02.2018 5:58:48 PM Chrome Protected Settings
+Unknown: homepage = http://www.google.co.in/
+Anti-malware scan finished at: 25.02.2018 5:59:14 PM

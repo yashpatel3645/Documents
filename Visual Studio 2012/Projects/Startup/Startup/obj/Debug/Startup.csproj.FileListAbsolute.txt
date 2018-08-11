@@ -1,0 +1,8 @@
+c:\users\king_heart\documents\visual studio 2012\Projects\Startup\Startup\bin\Debug\Startup.exe.config
+c:\users\king_heart\documents\visual studio 2012\Projects\Startup\Startup\obj\Debug\Startup.Form1.resources
+c:\users\king_heart\documents\visual studio 2012\Projects\Startup\Startup\obj\Debug\Startup.Properties.Resources.resources
+c:\users\king_heart\documents\visual studio 2012\Projects\Startup\Startup\obj\Debug\Startup.csproj.GenerateResource.Cache
+c:\users\king_heart\documents\visual studio 2012\Projects\Startup\Startup\bin\Debug\Startup.exe
+c:\users\king_heart\documents\visual studio 2012\Projects\Startup\Startup\bin\Debug\Startup.pdb
+c:\users\king_heart\documents\visual studio 2012\Projects\Startup\Startup\obj\Debug\Startup.exe
+c:\users\king_heart\documents\visual studio 2012\Projects\Startup\Startup\obj\Debug\Startup.pdb

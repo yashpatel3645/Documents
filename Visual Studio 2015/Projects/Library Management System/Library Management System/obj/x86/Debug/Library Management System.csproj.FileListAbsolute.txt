@@ -1,0 +1,44 @@
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.frmLoginPage.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.Properties.Resources.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library Management System.exe
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library Management System.pdb
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\bin\Debug\LMS.mdf
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\bin\Debug\LMS_log.ldf
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.WelcomeAdmin.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.AddEditPublisher.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.AddEditAuthor.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.AddEditCategory.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.AddEditSupplier.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.AddEditBook.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.SearchForm.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.MemberForm.resources
+E:\Mawaat\InProgress\LMS\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.WelcomeMember.resources
+E:\Mawaat\Project Done\LMS\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+E:\Mawaat\Project Done\LMS\Library Management System\Library Management System\obj\x86\Debug\Library Management System.exe
+E:\Mawaat\Project Done\LMS\Library Management System\Library Management System\obj\x86\Debug\Library Management System.pdb
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\x86\Debug\Library Management System.exe
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\x86\Debug\Library Management System.pdb
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\bin\Debug\LMS.mdf
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\bin\Debug\LMS_log.ldf
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\x86\Debug\Library Management System.csprojResolveAssemblyReference.cache
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.AddEditAuthor.resources
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.AddEditBook.resources
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.AddEditCategory.resources
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.AddEditPublisher.resources
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.AddEditSupplier.resources
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.frmLoginPage.resources
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.MemberForm.resources
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.Properties.Resources.resources
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.SearchForm.resources
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.WelcomeAdmin.resources
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\x86\Debug\Library_Management_System.WelcomeMember.resources
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library Management System\Library Management System\obj\x86\Debug\Library Management System.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+c:\users\king_heart\documents\visual studio 2013\Projects\practical1\practical1\bin\Debug\practical1.exe.config
+c:\users\king_heart\documents\visual studio 2013\Projects\practical1\practical1\obj\Debug\practical1.csprojResolveAssemblyReference.cache
+c:\users\king_heart\documents\visual studio 2013\Projects\practical1\practical1\bin\Debug\practical1.exe
+c:\users\king_heart\documents\visual studio 2013\Projects\practical1\practical1\bin\Debug\practical1.pdb
+c:\users\king_heart\documents\visual studio 2013\Projects\practical1\practical1\obj\Debug\practical1.exe
+c:\users\king_heart\documents\visual studio 2013\Projects\practical1\practical1\obj\Debug\practical1.pdb
+C:\Users\King_Heart\Documents\Visual Studio 2012\Projects\practical1\practical1\bin\Debug\practical1.exe.config
+C:\Users\King_Heart\Documents\Visual Studio 2012\Projects\practical1\practical1\obj\Debug\practical1.exe
+C:\Users\King_Heart\Documents\Visual Studio 2012\Projects\practical1\practical1\obj\Debug\practical1.pdb
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\practical1\practical1\bin\Debug\practical1.exe.config
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\practical1\practical1\obj\Debug\practical1.exe
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\practical1\practical1\obj\Debug\practical1.pdb

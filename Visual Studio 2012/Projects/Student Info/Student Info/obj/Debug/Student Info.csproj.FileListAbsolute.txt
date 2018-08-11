@@ -1,0 +1,9 @@
+c:\users\king_heart\documents\visual studio 2012\Projects\Student Info\Student Info\bin\Debug\Student Info.exe.config
+c:\users\king_heart\documents\visual studio 2012\Projects\Student Info\Student Info\bin\Debug\Student Info.exe
+c:\users\king_heart\documents\visual studio 2012\Projects\Student Info\Student Info\bin\Debug\Student Info.pdb
+c:\users\king_heart\documents\visual studio 2012\Projects\Student Info\Student Info\obj\Debug\Student Info.csprojResolveAssemblyReference.cache
+c:\users\king_heart\documents\visual studio 2012\Projects\Student Info\Student Info\obj\Debug\Student_Info.Form1.resources
+c:\users\king_heart\documents\visual studio 2012\Projects\Student Info\Student Info\obj\Debug\Student_Info.Properties.Resources.resources
+c:\users\king_heart\documents\visual studio 2012\Projects\Student Info\Student Info\obj\Debug\Student Info.csproj.GenerateResource.Cache
+c:\users\king_heart\documents\visual studio 2012\Projects\Student Info\Student Info\obj\Debug\Student Info.exe
+c:\users\king_heart\documents\visual studio 2012\Projects\Student Info\Student Info\obj\Debug\Student Info.pdb

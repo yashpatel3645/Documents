@@ -1,0 +1,45 @@
+C:\Users\om\Desktop\Projects\net\One Way\One Way\bin\Debug\One Way.exe.config
+C:\Users\om\Desktop\Projects\net\One Way\One Way\bin\Debug\One Way.exe
+C:\Users\om\Desktop\Projects\net\One Way\One Way\bin\Debug\One Way.pdb
+C:\Users\om\Desktop\Projects\net\One Way\One Way\obj\Debug\One Way.csprojResolveAssemblyReference.cache
+C:\Users\om\Desktop\Projects\net\One Way\One Way\obj\Debug\One_Way.Form1.resources
+C:\Users\om\Desktop\Projects\net\One Way\One Way\obj\Debug\One_Way.Properties.Resources.resources
+C:\Users\om\Desktop\Projects\net\One Way\One Way\obj\Debug\One Way.csproj.GenerateResource.Cache
+C:\Users\om\Desktop\Projects\net\One Way\One Way\obj\Debug\One Way.exe
+C:\Users\om\Desktop\Projects\net\One Way\One Way\obj\Debug\One Way.pdb
+C:\Users\om\Desktop\Projects\DOT NET\One Way\One Way\bin\Debug\One Way.exe.config
+C:\Users\om\Desktop\Projects\DOT NET\One Way\One Way\obj\Debug\One Way.exe
+C:\Users\om\Desktop\Projects\DOT NET\One Way\One Way\obj\Debug\One Way.pdb
+C:\Users\om\Desktop\Projects\DOT NET\One Way\One Way\bin\Debug\One Way.exe
+C:\Users\om\Desktop\Projects\DOT NET\One Way\One Way\bin\Debug\One Way.pdb
+C:\Users\om\Desktop\Projects\DOT NET\One Way\One Way\obj\Debug\One Way.csprojResolveAssemblyReference.cache
+C:\Users\om\Desktop\Projects\DOT NET\One Way\One Way\obj\Debug\One_Way.Form1.resources
+C:\Users\om\Desktop\Projects\DOT NET\One Way\One Way\obj\Debug\One_Way.Properties.Resources.resources
+C:\Users\om\Desktop\Projects\DOT NET\One Way\One Way\obj\Debug\One Way.csproj.GenerateResource.Cache
+E:\DOT NET\One Way\One Way\bin\Debug\One Way.exe.config
+E:\DOT NET\One Way\One Way\obj\Debug\One Way.exe
+E:\DOT NET\One Way\One Way\obj\Debug\One Way.pdb
+E:\DOT NET\One Way\One Way\obj\Debug\One Way.csprojResolveAssemblyReference.cache
+E:\DOT NET\One Way\One Way\obj\Debug\One_Way.Form1.resources
+E:\DOT NET\One Way\One Way\obj\Debug\One_Way.Properties.Resources.resources
+E:\DOT NET\One Way\One Way\obj\Debug\One Way.csproj.GenerateResource.Cache
+E:\DOT NET\One Way\One Way\obj\Debug\One Way.csprojFakesResolveAssemblyReference.cache
+E:\DOT NET\One Way\One Way\bin\Debug\One Way.exe
+E:\DOT NET\One Way\One Way\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\DOT NET\One Way\One Way\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+E:\DOT NET\One Way\One Way\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\DOT NET\One Way\One Way\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\yashp\Documents\Visual Studio 2015\One Way\One Way\bin\Debug\One Way.exe.config
+C:\Users\yashp\Documents\Visual Studio 2015\One Way\One Way\obj\Debug\One Way.pdb
+C:\Users\yashp\Documents\Visual Studio 2015\One Way\One Way\bin\Debug\One Way.exe
+C:\Users\yashp\Documents\Visual Studio 2015\One Way\One Way\bin\Debug\One Way.pdb
+C:\Users\yashp\Documents\Visual Studio 2015\One Way\One Way\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\yashp\Documents\Visual Studio 2015\One Way\One Way\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+C:\Users\yashp\Documents\Visual Studio 2015\One Way\One Way\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\yashp\Documents\Visual Studio 2015\One Way\One Way\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\yashp\Documents\Visual Studio 2015\One Way\One Way\obj\Debug\One Way.csprojFakesResolveAssemblyReference.cache
+C:\Users\yashp\Documents\Visual Studio 2015\One Way\One Way\obj\Debug\One Way.csprojResolveAssemblyReference.cache
+C:\Users\yashp\Documents\Visual Studio 2015\One Way\One Way\obj\Debug\One_Way.Form1.resources
+C:\Users\yashp\Documents\Visual Studio 2015\One Way\One Way\obj\Debug\One_Way.Properties.Resources.resources
+C:\Users\yashp\Documents\Visual Studio 2015\One Way\One Way\obj\Debug\One Way.csproj.GenerateResource.Cache
+C:\Users\yashp\Documents\Visual Studio 2015\One Way\One Way\obj\Debug\One Way.exe

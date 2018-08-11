@@ -1,0 +1,10 @@
+c:\users\king_heart\documents\visual studio 2012\Projects\practicle3\practicle3\bin\Debug\practicle3.exe.config
+c:\users\king_heart\documents\visual studio 2012\Projects\practicle3\practicle3\bin\Debug\practicle3.exe
+c:\users\king_heart\documents\visual studio 2012\Projects\practicle3\practicle3\bin\Debug\practicle3.pdb
+c:\users\king_heart\documents\visual studio 2012\Projects\practicle3\practicle3\obj\Debug\practicle3.exe
+c:\users\king_heart\documents\visual studio 2012\Projects\practicle3\practicle3\obj\Debug\practicle3.pdb
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\practicle3\practicle3\bin\Debug\practicle3.exe.config
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\practicle3\practicle3\obj\Debug\practicle3.exe
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\practicle3\practicle3\obj\Debug\practicle3.pdb
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\practicle3\practicle3\bin\Debug\practicle3.exe
+C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\practicle3\practicle3\bin\Debug\practicle3.pdb

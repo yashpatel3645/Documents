@@ -1,0 +1,14 @@
+c:\users\panasonic\documents\visual studio 2012\Projects\YASH\YASH\bin\Debug\YASH.exe.config
+c:\users\panasonic\documents\visual studio 2012\Projects\YASH\YASH\obj\Debug\YASH.csprojResolveAssemblyReference.cache
+c:\users\panasonic\documents\visual studio 2012\Projects\YASH\YASH\obj\Debug\YASH.Form1.resources
+c:\users\panasonic\documents\visual studio 2012\Projects\YASH\YASH\obj\Debug\YASH.Properties.Resources.resources
+c:\users\panasonic\documents\visual studio 2012\Projects\YASH\YASH\obj\Debug\YASH.csproj.GenerateResource.Cache
+c:\users\panasonic\documents\visual studio 2012\Projects\YASH\YASH\bin\Debug\Database1.mdf
+c:\users\panasonic\documents\visual studio 2012\Projects\YASH\YASH\bin\Debug\Database1_log.ldf
+c:\users\panasonic\documents\visual studio 2012\Projects\YASH\YASH\bin\Debug\YASH.exe
+c:\users\panasonic\documents\visual studio 2012\Projects\YASH\YASH\bin\Debug\YASH.pdb
+c:\users\panasonic\documents\visual studio 2012\Projects\YASH\YASH\obj\Debug\YASH.exe
+c:\users\panasonic\documents\visual studio 2012\Projects\YASH\YASH\obj\Debug\YASH.pdb
+C:\Users\King_Heart\Documents\Visual Studio 2012\Projects\YASH\YASH\bin\Debug\YASH.exe.config
+C:\Users\King_Heart\Documents\Visual Studio 2012\Projects\YASH\YASH\obj\Debug\YASH.exe
+C:\Users\King_Heart\Documents\Visual Studio 2012\Projects\YASH\YASH\obj\Debug\YASH.pdb

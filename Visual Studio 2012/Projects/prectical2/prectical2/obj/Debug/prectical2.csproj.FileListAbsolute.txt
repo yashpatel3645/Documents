@@ -1,0 +1,6 @@
+c:\users\king_heart\documents\visual studio 2012\Projects\prectical2\prectical2\bin\Debug\prectical2.exe.config
+c:\users\king_heart\documents\visual studio 2012\Projects\prectical2\prectical2\obj\Debug\prectical2.csprojResolveAssemblyReference.cache
+c:\users\king_heart\documents\visual studio 2012\Projects\prectical2\prectical2\bin\Debug\prectical2.exe
+c:\users\king_heart\documents\visual studio 2012\Projects\prectical2\prectical2\bin\Debug\prectical2.pdb
+c:\users\king_heart\documents\visual studio 2012\Projects\prectical2\prectical2\obj\Debug\prectical2.exe
+c:\users\king_heart\documents\visual studio 2012\Projects\prectical2\prectical2\obj\Debug\prectical2.pdb

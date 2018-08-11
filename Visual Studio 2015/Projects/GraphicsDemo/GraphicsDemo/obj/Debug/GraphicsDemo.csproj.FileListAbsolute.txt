@@ -1,0 +1,9 @@
+c:\users\king_heart\documents\visual studio 2015\Projects\GraphicsDemo\GraphicsDemo\bin\Debug\GraphicsDemo.exe.config
+c:\users\king_heart\documents\visual studio 2015\Projects\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.csprojResolveAssemblyReference.cache
+c:\users\king_heart\documents\visual studio 2015\Projects\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.Form1.resources
+c:\users\king_heart\documents\visual studio 2015\Projects\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.Properties.Resources.resources
+c:\users\king_heart\documents\visual studio 2015\Projects\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.csproj.GenerateResource.Cache
+c:\users\king_heart\documents\visual studio 2015\Projects\GraphicsDemo\GraphicsDemo\bin\Debug\GraphicsDemo.exe
+c:\users\king_heart\documents\visual studio 2015\Projects\GraphicsDemo\GraphicsDemo\bin\Debug\GraphicsDemo.pdb
+c:\users\king_heart\documents\visual studio 2015\Projects\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.exe
+c:\users\king_heart\documents\visual studio 2015\Projects\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.pdb

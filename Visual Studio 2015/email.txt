@@ -1,0 +1,39 @@
+string hello = DateTime.Now.Date.ToString();
+               try
+               {
+                   SqlConnection con = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = C:\Users\King_Heart\Documents\Visual Studio 2015\Projects\Library\Library\bookdata.mdf; Integrated Security = True");
+                   con.Open();
+                   SqlCommand sc = new SqlCommand("Select email from studentdetail where subdate < '"+hello+"'",con);
+                   SqlDataReader dr = sc.ExecuteReader();
+                   while (dr.Read())
+                   {
+                       var fromAddress = new MailAddress("librarymanagement007@gmail.com", "From Library");
+                       var toAddress = new MailAddress(dr["email"].ToString(),"To Student");
+                       const string fromPassword = "Yash9924091719";
+                       const string subject = "Submit Book";
+                       const string body = "Please Submit Your Book Fast As Possible.";
+
+                       var smtp = new SmtpClient
+                       {
+                           Host = "smtp.gmail.com",
+                           Port = 587,
+                           EnableSsl = true,
+                           DeliveryMethod = SmtpDeliveryMethod.Network,
+                           Credentials = new NetworkCredential(fromAddress.Address, fromPassword),
+                           Timeout = 20000
+                       };
+                       using (var message = new MailMessage(fromAddress, toAddress)
+                       {
+                           Subject = subject,
+                           Body = body
+                       })
+                       {
+                           smtp.Send(message);
+                       }
+                   }
+                   MessageBox.Show("Email Sent Successfully.");
+               }
+               catch(Exception ep)
+               {
+                   MessageBox.Show(ep.Message);
+               }
